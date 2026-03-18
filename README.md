@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="assets/img/unnamed.jpg" />
+<img src="./assets/img/CodeMochi.png" alt="CodeMochi Banner" width="100%" style="border-radius: 20px;" />
+
+<br><br>
+
+<h1>✨ Valentina Paz 👩‍💻</h1>
+<h3>Frontend Developer · Vue.js · CodeMochi 🍡💻</h3>
 
 </div>
 
@@ -8,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Vue.js;Creating+modern+UI+experiences;Passionate+about+UX+%26+Performance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+Vue.js;Creating+modern+UI+experiences;Passionate+about+UX+%26+Performance" width="420"/>
 
 </div>
 
@@ -25,7 +30,7 @@
 <a href="https://www.linkedin.com/in/valentina-llant%C3%A9n-robles-a2684a276/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://m8-portafolio-abp-lsdf.vercel.app/">
+<a href="[https://m8-portafolio-abp-lsdf.vercel.app/](http://localhost:3000/)">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:valentinapazll.r@gmail.com">
@@ -105,15 +110,15 @@
 ### 💳 Alkemi Wallet
 <img src="./assets/img/AlkemiWallet1.png" width="90%"/>
 
-**Login + flujo de usuario**
-🔐 Contraseña para el demo `usuario@email.com` / `123456`
+**Login + flujo de usuario**  
+🔐 contraseña para el demo `usuario@email.com` / `123456`
+
 <a href="https://valentinapazllr-ops.github.io/alke-wallet1-deployment/">
 <img src="https://img.shields.io/badge/🚀%20Demo-00C853?style=for-the-badge"/>
 </a>
 <a href="https://github.com/valentinapazllr-ops/alke-wallet1">
 <img src="https://img.shields.io/badge/💻%20Código-181717?style=for-the-badge&logo=github"/>
 </a>
- 
 
 </div>
 
