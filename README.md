@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/img/CodeMochi.png" alt="CodeMochi Banner" width="100%" style="border-radius: 20px;" />
+<img src="./assets/img/unnamed.jpg" alt="CodeMochi Banner" width="100%" style="border-radius: 20px;" />
 
 <br><br>
 
