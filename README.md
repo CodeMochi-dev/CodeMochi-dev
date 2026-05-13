@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%E2%9C%A8;Vue.js+Enthusiast+%F0%9F%92%9A;Building+Digital+Experiences;Java+Full+Stack+Learner+%E2%98%95" width="600"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%E2%9C%A8;Vue.js+Enthusiast+%F0%9F%92%9A;Building+Digital+Experiences;Java+Full+Stack+Learner+%E2%98%95;UX+%2F+UI+Passionate+%F0%9F%8E%A8" width="700"/>
 
 ---
 
@@ -31,6 +31,7 @@ Desarrolladora Frontend con una fuerte inclinación hacia la **UX, el rendimient
 - 🎯 **Enfoque:** Frontend con Vue.js & UX/UI
 - 🚀 **Evolución:** Aprendiendo Spring Boot & Arquitecturas escalables
 - 🌱 **Mentalidad:** Aprendizaje continuo y atención al detalle
+- 🌍 **Idiomas:** Español nativo · Inglés técnico
 
 ---
 
@@ -49,7 +50,9 @@ Desarrolladora Frontend con una fuerte inclinación hacia la **UX, el rendimient
     <td align="center" width="33%">
       <strong>Backend & DB</strong><br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
     <td align="center" width="33%">
@@ -57,6 +60,8 @@ Desarrolladora Frontend con una fuerte inclinación hacia la **UX, el rendimient
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     </td>
   </tr>
@@ -94,6 +99,18 @@ Desarrolladora Frontend con una fuerte inclinación hacia la **UX, el rendimient
 
 <img src="https://streak-stats.demolab.com?user=CodeMochi-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
+</div>
+
+---
+
+## 🐍 Actividad
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeMochi-dev/CodeMochi-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeMochi-dev/CodeMochi-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/CodeMochi-dev/CodeMochi-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
