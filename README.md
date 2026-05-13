@@ -16,9 +16,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-llant%C3%A9n-robles-a2684a276/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-pro-virid.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentinapazll.r@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/valentina-llant%C3%A9n-robles-a2684a276/)
+[![Portfolio](https://portafolio-pro-h89a.vercel.app/)
+[![Email](valentinapazll.r@gmail.com)
 
 </div>
 
@@ -71,13 +71,13 @@ Desarrolladora Frontend con una fuerte inclinación hacia la **UX, el rendimient
 | Proyecto | Descripción | Preview |
 | :--- | :--- | :--- |
 | **EcoMarket** | SPA con Vue 3, Pinia y diseño moderno. | <img src="./assets/img/Ecomarket.png" width="250" style="border-radius: 8px;" /> |
-| | [🚀 Demo](https://valentinapazllr-ops.github.io/analisis-de-caso-Ecomarket/) · [💻 Código](https://github.com/valentinapazllr-ops/analisis-de-caso-Ecomarket) | |
+| | [🚀 Demo](https://codemochi-dev.github.io/analisis-de-caso-Ecomarket/) · [💻 Código](https://github.com/CodeMochi-dev/analisis-de-caso-Ecomarket) | |
 | **LibroApp** | CRUD completo con Firebase Realtime Database. | <img src="./assets/img/Libroapp.png" width="250" style="border-radius: 8px;" /> |
-| | [🚀 Demo](https://m6-abp.vercel.app/login) · [💻 Código](https://github.com/valentinapazllr-ops/M6-ABP) | |
+| | [🚀 Demo](https://m6-abp.vercel.app/login) · [💻 Código](https://github.com/CodeMochi-dev/M6-ABP) | |
 | **Alkemi Wallet** | Fintech app con flujo de usuario y diseño moderno. | <img src="./assets/img/AlkemiWallet1.png" width="250" style="border-radius: 8px;" /> |
-| | [🚀 Demo](https://valentinapazllr-ops.github.io/alke-wallet1-deployment/) · [💻 Código](https://github.com/valentinapazllr-ops/alke-wallet1) | |
+| | [🚀 Demo](https://alke-wallet1-deployment.vercel.app/) · [💻 Código](https://github.com/CodeMochi-dev/alke-wallet1-deployment) | |
 | **SmartBudget** | Gestión financiera personal enfocada en UX. | <img src="./assets/img/SmartBudget.png" width="250" style="border-radius: 8px;" /> |
-| | [🚀 Demo](https://valentinapazllr-ops.github.io/Proyecto-ABP-M3/) · [💻 Código](https://github.com/valentinapazllr-ops/Proyecto-ABP-M3) | |
+| | [🚀 Demo](https://codemochi-dev.github.io/Proyecto-ABP-M3/) · [💻 Código](https://github.com/CodeMochi-dev/Proyecto-ABP-M3) | |
 
 </div>
 
