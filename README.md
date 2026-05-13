@@ -16,9 +16,9 @@
 
 <br/>
 
-[![LinkedIn](https://www.linkedin.com/in/valentina-llant%C3%A9n-robles-a2684a276/)
-[![Portfolio](https://portafolio-pro-h89a.vercel.app/)
-[![Email](valentinapazll.r@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-llant%C3%A9n-robles-a2684a276/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portafolio-pro-h89a.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:valentinapazll.r@gmail.com)
 
 </div>
 
@@ -87,12 +87,12 @@ Desarrolladora Frontend con una fuerte inclinación hacia la **UX, el rendimient
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valentinapazllr-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&bg_color=1a1b26"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinapazllr-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00F7FF&text_color=FFFFFF&bg_color=1a1b26"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeMochi-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&bg_color=1a1b26"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMochi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00F7FF&text_color=FFFFFF&bg_color=1a1b26"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=valentinapazllr-ops&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com?user=CodeMochi-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -116,7 +116,3 @@ Desarrolladora Frontend con una fuerte inclinación hacia la **UX, el rendimient
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" width="100%"/>
 </div>
- avanzada
-🚀 Mejorando      Performance & Core Web Vitals
-🤝 Buscando       Oportunidades como desarrolladora
-` ` `
